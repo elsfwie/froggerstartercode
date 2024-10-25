@@ -1,5 +1,5 @@
 // Program name
-//
+//halo
 // This program was written by [your name] (NIM i.e. )
 // on [date]
 //
